@@ -17,42 +17,42 @@
     "Expenses": 500,
     "Expense name": "Wifi",
     "Remaining so far": -500,
-    "Income today": 26415.020000000004,
+    "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 25915.020000000004
+    "Actual remaining today": 22500
   },
   {
     "": "",
     "Date": "2026-01-02",
     "ONLY ME - Checkbox": false,
-    "Expenses": 5000,
-    "Expense name": "Food",
-    "Remaining so far": 20915.020000000004,
+    "Expenses": 2491.09,
+    "Expense name": "Electric",
+    "Remaining so far": 20008.91,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 20915.020000000004
+    "Actual remaining today": 20008.91
   },
   {
     "": "",
     "Date": "2026-01-03",
     "ONLY ME - Checkbox": "",
-    "Expenses": "",
-    "Expense name": "",
-    "Remaining so far": 20915.020000000004,
+    "Expenses": 337.6,
+    "Expense name": "Water",
+    "Remaining so far": 19671.31,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 20915.020000000004
+    "Actual remaining today": 19671.31
   },
   {
     "": "",
     "Date": "2026-01-04",
     "ONLY ME - Checkbox": "",
-    "Expenses": "",
-    "Expense name": "",
-    "Remaining so far": 20915.020000000004,
+    "Expenses": 2000,
+    "Expense name": "Food",
+    "Remaining so far": 17671.31,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 20915.020000000004
+    "Actual remaining today": 17671.31
   },
   {
     "": "",
@@ -60,10 +60,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 20915.020000000004,
+    "Remaining so far": 17671.31,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 20915.020000000004
+    "Actual remaining today": 17671.31
   },
   {
     "": "",
@@ -71,10 +71,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 20915.020000000004,
+    "Remaining so far": 17671.31,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 20915.020000000004
+    "Actual remaining today": 17671.31
   },
   {
     "": "",
@@ -82,10 +82,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 20915.020000000004,
+    "Remaining so far": 17671.31,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 20915.020000000004
+    "Actual remaining today": 17671.31
   },
   {
     "": "",
@@ -93,10 +93,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 20915.020000000004,
+    "Remaining so far": 17671.31,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 20915.020000000004
+    "Actual remaining today": 17671.31
   },
   {
     "": "",
@@ -104,10 +104,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 20915.020000000004,
+    "Remaining so far": 17671.31,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 20915.020000000004
+    "Actual remaining today": 17671.31
   },
   {
     "": "",
@@ -115,10 +115,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 20915.020000000004,
+    "Remaining so far": 17671.31,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 20915.020000000004
+    "Actual remaining today": 17671.31
   },
   {
     "": "",
@@ -126,10 +126,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 20915.020000000004,
+    "Remaining so far": 17671.31,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 20915.020000000004
+    "Actual remaining today": 17671.31
   },
   {
     "": "",
@@ -137,21 +137,21 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 20915.020000000004,
+    "Remaining so far": 17671.31,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 20915.020000000004
+    "Actual remaining today": 17671.31
   },
   {
     "": "",
     "Date": "2026-01-13",
     "ONLY ME - Checkbox": "",
     "Expenses": 5318.15,
-    "Expense name": "",
-    "Remaining so far": 15596.870000000004,
+    "Expense name": "GPU",
+    "Remaining so far": 12353.160000000002,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 15596.870000000004
+    "Actual remaining today": 12353.160000000002
   },
   {
     "": "",
@@ -159,10 +159,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 4000,
     "Expense name": "Rent",
-    "Remaining so far": 11596.870000000004,
+    "Remaining so far": 8353.160000000002,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 11596.870000000004
+    "Actual remaining today": 8353.160000000002
   },
   {
     "": "",
@@ -170,10 +170,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Electric",
-    "Remaining so far": 11096.870000000004,
+    "Remaining so far": 7853.160000000002,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 34096.87
+    "Actual remaining today": 30853.160000000003
   },
   {
     "": "",
@@ -181,10 +181,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 110,
     "Expense name": "Water",
-    "Remaining so far": 33986.87,
+    "Remaining so far": 30743.160000000003,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 33986.87
+    "Actual remaining today": 30743.160000000003
   },
   {
     "": "",
@@ -192,10 +192,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 28986.870000000003,
+    "Remaining so far": 25743.160000000003,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 28986.870000000003
+    "Actual remaining today": 25743.160000000003
   },
   {
     "": "",
@@ -203,10 +203,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 436.33,
     "Expense name": "SLoan",
-    "Remaining so far": 28550.54,
+    "Remaining so far": 25306.83,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 28550.54
+    "Actual remaining today": 25306.83
   },
   {
     "": "",
@@ -214,10 +214,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 2399.81,
     "Expense name": "SLoan",
-    "Remaining so far": 26150.73,
+    "Remaining so far": 22907.02,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 26150.73
+    "Actual remaining today": 22907.02
   },
   {
     "": "",
@@ -225,10 +225,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 2270.53,
     "Expense name": "SLoan",
-    "Remaining so far": 23880.2,
+    "Remaining so far": 20636.49,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 23880.2
+    "Actual remaining today": 20636.49
   },
   {
     "": "",
@@ -236,10 +236,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 1692.13,
     "Expense name": "GLoan",
-    "Remaining so far": 22188.07,
+    "Remaining so far": 18944.36,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 22188.07
+    "Actual remaining today": 18944.36
   },
   {
     "": "",
@@ -247,10 +247,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 3200,
     "Expense name": "Cino",
-    "Remaining so far": 18988.07,
+    "Remaining so far": 15744.36,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 18988.07
+    "Actual remaining today": 15744.36
   },
   {
     "": "",
@@ -258,10 +258,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 1500,
     "Expense name": "Ref",
-    "Remaining so far": 17488.07,
+    "Remaining so far": 14244.36,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 17488.07
+    "Actual remaining today": 14244.36
   },
   {
     "": "",
@@ -269,10 +269,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 545.41,
     "Expense name": "SLoan",
-    "Remaining so far": 16942.66,
+    "Remaining so far": 13698.95,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 16942.66
+    "Actual remaining today": 13698.95
   },
   {
     "": "",
@@ -280,10 +280,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 16942.66,
+    "Remaining so far": 13698.95,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 16942.66
+    "Actual remaining today": 13698.95
   },
   {
     "": "",
@@ -291,10 +291,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 16942.66,
+    "Remaining so far": 13698.95,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 16942.66
+    "Actual remaining today": 13698.95
   },
   {
     "": "",
@@ -302,10 +302,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 16942.66,
+    "Remaining so far": 13698.95,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 16942.66
+    "Actual remaining today": 13698.95
   },
   {
     "": "",
@@ -313,10 +313,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 16942.66,
+    "Remaining so far": 13698.95,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 16942.66
+    "Actual remaining today": 13698.95
   },
   {
     "": "",
@@ -324,10 +324,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 16942.66,
+    "Remaining so far": 13698.95,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 16942.66
+    "Actual remaining today": 13698.95
   },
   {
     "": "",
@@ -335,21 +335,21 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 16942.66,
+    "Remaining so far": 13698.95,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 39942.66
+    "Actual remaining today": 36698.95
   },
   {
-    "": 34942.66,
+    "": 31698.949999999997,
     "Date": "2026-01-31",
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Buds",
-    "Remaining so far": 34942.66,
+    "Remaining so far": 31698.949999999997,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 34942.66
+    "Actual remaining today": 31698.949999999997
   },
   {
     "": "",
@@ -357,10 +357,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Wifi",
-    "Remaining so far": 34442.66,
+    "Remaining so far": 31198.949999999997,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 34442.66
+    "Actual remaining today": 31198.949999999997
   },
   {
     "": "",
@@ -368,10 +368,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 29442.660000000003,
+    "Remaining so far": 26198.949999999997,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 29442.660000000003
+    "Actual remaining today": 26198.949999999997
   },
   {
     "": "",
@@ -379,10 +379,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 29442.660000000003,
+    "Remaining so far": 26198.949999999997,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 29442.660000000003
+    "Actual remaining today": 26198.949999999997
   },
   {
     "": "",
@@ -390,10 +390,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 29442.660000000003,
+    "Remaining so far": 26198.949999999997,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 29442.660000000003
+    "Actual remaining today": 26198.949999999997
   },
   {
     "": "",
@@ -401,10 +401,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 29442.660000000003,
+    "Remaining so far": 26198.949999999997,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 29442.660000000003
+    "Actual remaining today": 26198.949999999997
   },
   {
     "": "",
@@ -412,10 +412,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 29442.660000000003,
+    "Remaining so far": 26198.949999999997,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 29442.660000000003
+    "Actual remaining today": 26198.949999999997
   },
   {
     "": "",
@@ -423,10 +423,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 29442.660000000003,
+    "Remaining so far": 26198.949999999997,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 29442.660000000003
+    "Actual remaining today": 26198.949999999997
   },
   {
     "": "",
@@ -434,10 +434,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 29442.660000000003,
+    "Remaining so far": 26198.949999999997,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 29442.660000000003
+    "Actual remaining today": 26198.949999999997
   },
   {
     "": "",
@@ -445,10 +445,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 29442.660000000003,
+    "Remaining so far": 26198.949999999997,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 29442.660000000003
+    "Actual remaining today": 26198.949999999997
   },
   {
     "": "",
@@ -456,10 +456,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 29442.660000000003,
+    "Remaining so far": 26198.949999999997,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 29442.660000000003
+    "Actual remaining today": 26198.949999999997
   },
   {
     "": "",
@@ -467,21 +467,21 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 29442.660000000003,
+    "Remaining so far": 26198.949999999997,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 29442.660000000003
+    "Actual remaining today": 26198.949999999997
   },
   {
     "": "",
     "Date": "2026-02-12",
     "ONLY ME - Checkbox": "",
     "Expenses": 5318.15,
-    "Expense name": "",
-    "Remaining so far": 24124.510000000002,
+    "Expense name": "GPU",
+    "Remaining so far": 20880.799999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 24124.510000000002
+    "Actual remaining today": 20880.799999999996
   },
   {
     "": "",
@@ -489,10 +489,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 11087.47,
     "Expense name": "SpayLater",
-    "Remaining so far": 13037.040000000003,
+    "Remaining so far": 9793.329999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 13037.040000000003
+    "Actual remaining today": 9793.329999999996
   },
   {
     "": "",
@@ -500,10 +500,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 4000,
     "Expense name": "Rent",
-    "Remaining so far": 9037.040000000003,
+    "Remaining so far": 5793.329999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 9037.040000000003
+    "Actual remaining today": 5793.329999999996
   },
   {
     "": "",
@@ -511,10 +511,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Electric",
-    "Remaining so far": 8537.040000000003,
+    "Remaining so far": 5293.329999999996,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 31537.04
+    "Actual remaining today": 28293.329999999994
   },
   {
     "": "",
@@ -522,10 +522,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 110,
     "Expense name": "Water",
-    "Remaining so far": 31427.04,
+    "Remaining so far": 28183.329999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 31427.04
+    "Actual remaining today": 28183.329999999994
   },
   {
     "": "",
@@ -533,10 +533,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 26427.04,
+    "Remaining so far": 23183.329999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 26427.04
+    "Actual remaining today": 23183.329999999994
   },
   {
     "": "",
@@ -544,10 +544,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 436.33,
     "Expense name": "SLoan",
-    "Remaining so far": 25990.71,
+    "Remaining so far": 22746.999999999993,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 25990.71
+    "Actual remaining today": 22746.999999999993
   },
   {
     "": "",
@@ -555,10 +555,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 2399.81,
     "Expense name": "SLoan",
-    "Remaining so far": 23590.899999999998,
+    "Remaining so far": 20347.18999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 23590.899999999998
+    "Actual remaining today": 20347.18999999999
   },
   {
     "": "",
@@ -566,10 +566,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 2270.53,
     "Expense name": "SLoan",
-    "Remaining so far": 21320.37,
+    "Remaining so far": 18076.659999999993,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 21320.37
+    "Actual remaining today": 18076.659999999993
   },
   {
     "": "",
@@ -577,10 +577,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 1692.13,
     "Expense name": "GLoan",
-    "Remaining so far": 19628.239999999998,
+    "Remaining so far": 16384.52999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 19628.239999999998
+    "Actual remaining today": 16384.52999999999
   },
   {
     "": "",
@@ -588,10 +588,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 3200,
     "Expense name": "Cino",
-    "Remaining so far": 16428.239999999998,
+    "Remaining so far": 13184.529999999992,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 16428.239999999998
+    "Actual remaining today": 13184.529999999992
   },
   {
     "": "",
@@ -599,10 +599,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 1500,
     "Expense name": "Ref",
-    "Remaining so far": 14928.239999999998,
+    "Remaining so far": 11684.529999999992,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 14928.239999999998
+    "Actual remaining today": 11684.529999999992
   },
   {
     "": "",
@@ -610,10 +610,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 545.41,
     "Expense name": "SLoan",
-    "Remaining so far": 14382.829999999998,
+    "Remaining so far": 11139.119999999992,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 14382.829999999998
+    "Actual remaining today": 11139.119999999992
   },
   {
     "": "",
@@ -621,10 +621,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 14382.829999999998,
+    "Remaining so far": 11139.119999999992,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 14382.829999999998
+    "Actual remaining today": 11139.119999999992
   },
   {
     "": "",
@@ -632,10 +632,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 14382.829999999998,
+    "Remaining so far": 11139.119999999992,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 14382.829999999998
+    "Actual remaining today": 11139.119999999992
   },
   {
     "": "",
@@ -643,21 +643,21 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 14382.829999999998,
+    "Remaining so far": 11139.119999999992,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 14382.829999999998
+    "Actual remaining today": 11139.119999999992
   },
   {
-    "": 32382.829999999998,
+    "": 29139.11999999999,
     "Date": "2026-02-28",
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Buds",
-    "Remaining so far": 9382.829999999998,
+    "Remaining so far": 6139.119999999992,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 32382.829999999998
+    "Actual remaining today": 29139.11999999999
   },
   {
     "": "",
@@ -665,10 +665,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Wifi",
-    "Remaining so far": 31882.829999999998,
+    "Remaining so far": 28639.11999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 31882.829999999998
+    "Actual remaining today": 28639.11999999999
   },
   {
     "": "",
@@ -676,10 +676,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 26882.829999999998,
+    "Remaining so far": 23639.11999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 26882.829999999998
+    "Actual remaining today": 23639.11999999999
   },
   {
     "": "",
@@ -687,10 +687,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 26882.829999999998,
+    "Remaining so far": 23639.11999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 26882.829999999998
+    "Actual remaining today": 23639.11999999999
   },
   {
     "": "",
@@ -698,10 +698,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 26882.829999999998,
+    "Remaining so far": 23639.11999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 26882.829999999998
+    "Actual remaining today": 23639.11999999999
   },
   {
     "": "",
@@ -709,10 +709,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 26882.829999999998,
+    "Remaining so far": 23639.11999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 26882.829999999998
+    "Actual remaining today": 23639.11999999999
   },
   {
     "": "",
@@ -720,10 +720,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 26882.829999999998,
+    "Remaining so far": 23639.11999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 26882.829999999998
+    "Actual remaining today": 23639.11999999999
   },
   {
     "": "",
@@ -731,10 +731,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 26882.829999999998,
+    "Remaining so far": 23639.11999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 26882.829999999998
+    "Actual remaining today": 23639.11999999999
   },
   {
     "": "",
@@ -742,10 +742,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 26882.829999999998,
+    "Remaining so far": 23639.11999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 26882.829999999998
+    "Actual remaining today": 23639.11999999999
   },
   {
     "": "",
@@ -753,10 +753,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 26882.829999999998,
+    "Remaining so far": 23639.11999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 26882.829999999998
+    "Actual remaining today": 23639.11999999999
   },
   {
     "": "",
@@ -764,10 +764,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 26882.829999999998,
+    "Remaining so far": 23639.11999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 26882.829999999998
+    "Actual remaining today": 23639.11999999999
   },
   {
     "": "",
@@ -775,21 +775,21 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 26882.829999999998,
+    "Remaining so far": 23639.11999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 26882.829999999998
+    "Actual remaining today": 23639.11999999999
   },
   {
     "": "",
     "Date": "2026-03-12",
     "ONLY ME - Checkbox": "",
     "Expenses": 5318.15,
-    "Expense name": "",
-    "Remaining so far": 21564.68,
+    "Expense name": "GPU",
+    "Remaining so far": 18320.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 21564.68
+    "Actual remaining today": 18320.969999999994
   },
   {
     "": "",
@@ -797,10 +797,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 2864.05,
     "Expense name": "SpayLater",
-    "Remaining so far": 18700.63,
+    "Remaining so far": 15456.919999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 18700.63
+    "Actual remaining today": 15456.919999999995
   },
   {
     "": "",
@@ -808,10 +808,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 4000,
     "Expense name": "Rent",
-    "Remaining so far": 14700.630000000001,
+    "Remaining so far": 11456.919999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 14700.630000000001
+    "Actual remaining today": 11456.919999999995
   },
   {
     "": "",
@@ -819,10 +819,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Electric",
-    "Remaining so far": 14200.630000000001,
+    "Remaining so far": 10956.919999999995,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 37200.630000000005
+    "Actual remaining today": 33956.92
   },
   {
     "": "",
@@ -830,10 +830,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 110,
     "Expense name": "Water",
-    "Remaining so far": 37090.630000000005,
+    "Remaining so far": 33846.92,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 37090.630000000005
+    "Actual remaining today": 33846.92
   },
   {
     "": "",
@@ -841,10 +841,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 32090.630000000005,
+    "Remaining so far": 28846.92,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 32090.630000000005
+    "Actual remaining today": 28846.92
   },
   {
     "": "",
@@ -852,10 +852,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 2399.81,
     "Expense name": "SLoan",
-    "Remaining so far": 29690.820000000003,
+    "Remaining so far": 26447.109999999997,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 29690.820000000003
+    "Actual remaining today": 26447.109999999997
   },
   {
     "": "",
@@ -863,10 +863,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 29690.820000000003,
+    "Remaining so far": 26447.109999999997,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 29690.820000000003
+    "Actual remaining today": 26447.109999999997
   },
   {
     "": "",
@@ -874,10 +874,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 29690.820000000003,
+    "Remaining so far": 26447.109999999997,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 29690.820000000003
+    "Actual remaining today": 26447.109999999997
   },
   {
     "": "",
@@ -885,10 +885,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 1692.13,
     "Expense name": "GLoan",
-    "Remaining so far": 27998.690000000002,
+    "Remaining so far": 24754.979999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 27998.690000000002
+    "Actual remaining today": 24754.979999999996
   },
   {
     "": "",
@@ -896,10 +896,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 3200,
     "Expense name": "Cino",
-    "Remaining so far": 24798.690000000002,
+    "Remaining so far": 21554.979999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 24798.690000000002
+    "Actual remaining today": 21554.979999999996
   },
   {
     "": "",
@@ -907,10 +907,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 1500,
     "Expense name": "Ref",
-    "Remaining so far": 23298.690000000002,
+    "Remaining so far": 20054.979999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 23298.690000000002
+    "Actual remaining today": 20054.979999999996
   },
   {
     "": "",
@@ -918,10 +918,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 545.41,
     "Expense name": "SLoan",
-    "Remaining so far": 22753.280000000002,
+    "Remaining so far": 19509.569999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 22753.280000000002
+    "Actual remaining today": 19509.569999999996
   },
   {
     "": "",
@@ -929,10 +929,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 22753.280000000002,
+    "Remaining so far": 19509.569999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 22753.280000000002
+    "Actual remaining today": 19509.569999999996
   },
   {
     "": "",
@@ -940,10 +940,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 22753.280000000002,
+    "Remaining so far": 19509.569999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 22753.280000000002
+    "Actual remaining today": 19509.569999999996
   },
   {
     "": "",
@@ -951,10 +951,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 22753.280000000002,
+    "Remaining so far": 19509.569999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 22753.280000000002
+    "Actual remaining today": 19509.569999999996
   },
   {
     "": "",
@@ -962,10 +962,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 22753.280000000002,
+    "Remaining so far": 19509.569999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 22753.280000000002
+    "Actual remaining today": 19509.569999999996
   },
   {
     "": "",
@@ -973,10 +973,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 22753.280000000002,
+    "Remaining so far": 19509.569999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 22753.280000000002
+    "Actual remaining today": 19509.569999999996
   },
   {
     "": "",
@@ -984,21 +984,21 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 22753.280000000002,
+    "Remaining so far": 19509.569999999996,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 45753.28
+    "Actual remaining today": 42509.56999999999
   },
   {
-    "": 40753.28,
+    "": 37509.56999999999,
     "Date": "2026-03-31",
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Buds",
-    "Remaining so far": 40753.28,
+    "Remaining so far": 37509.56999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 40753.28
+    "Actual remaining today": 37509.56999999999
   },
   {
     "": "",
@@ -1006,10 +1006,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Wifi",
-    "Remaining so far": 40253.28,
+    "Remaining so far": 37009.56999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 40253.28
+    "Actual remaining today": 37009.56999999999
   },
   {
     "": "",
@@ -1017,10 +1017,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 35253.28,
+    "Remaining so far": 32009.569999999992,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 35253.28
+    "Actual remaining today": 32009.569999999992
   },
   {
     "": "",
@@ -1028,10 +1028,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 35253.28,
+    "Remaining so far": 32009.569999999992,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 35253.28
+    "Actual remaining today": 32009.569999999992
   },
   {
     "": "",
@@ -1039,10 +1039,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 35253.28,
+    "Remaining so far": 32009.569999999992,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 35253.28
+    "Actual remaining today": 32009.569999999992
   },
   {
     "": "",
@@ -1050,10 +1050,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 35253.28,
+    "Remaining so far": 32009.569999999992,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 35253.28
+    "Actual remaining today": 32009.569999999992
   },
   {
     "": "",
@@ -1061,10 +1061,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 35253.28,
+    "Remaining so far": 32009.569999999992,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 35253.28
+    "Actual remaining today": 32009.569999999992
   },
   {
     "": "",
@@ -1072,10 +1072,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 35253.28,
+    "Remaining so far": 32009.569999999992,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 35253.28
+    "Actual remaining today": 32009.569999999992
   },
   {
     "": "",
@@ -1083,10 +1083,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 35253.28,
+    "Remaining so far": 32009.569999999992,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 35253.28
+    "Actual remaining today": 32009.569999999992
   },
   {
     "": "",
@@ -1094,10 +1094,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 35253.28,
+    "Remaining so far": 32009.569999999992,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 35253.28
+    "Actual remaining today": 32009.569999999992
   },
   {
     "": "",
@@ -1105,10 +1105,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 35253.28,
+    "Remaining so far": 32009.569999999992,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 35253.28
+    "Actual remaining today": 32009.569999999992
   },
   {
     "": "",
@@ -1116,21 +1116,21 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 35253.28,
+    "Remaining so far": 32009.569999999992,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 35253.28
+    "Actual remaining today": 32009.569999999992
   },
   {
     "": "",
     "Date": "2026-04-12",
     "ONLY ME - Checkbox": "",
     "Expenses": 5318.15,
-    "Expense name": "",
-    "Remaining so far": 29935.129999999997,
+    "Expense name": "GPU",
+    "Remaining so far": 26691.41999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 29935.129999999997
+    "Actual remaining today": 26691.41999999999
   },
   {
     "": "",
@@ -1138,10 +1138,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 2790.79,
     "Expense name": "SpayLater",
-    "Remaining so far": 27144.339999999997,
+    "Remaining so far": 23900.62999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 27144.339999999997
+    "Actual remaining today": 23900.62999999999
   },
   {
     "": "",
@@ -1149,10 +1149,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 4000,
     "Expense name": "Rent",
-    "Remaining so far": 23144.339999999997,
+    "Remaining so far": 19900.62999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 23144.339999999997
+    "Actual remaining today": 19900.62999999999
   },
   {
     "": "",
@@ -1160,10 +1160,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Electric",
-    "Remaining so far": 22644.339999999997,
+    "Remaining so far": 19400.62999999999,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 45644.34
+    "Actual remaining today": 42400.62999999999
   },
   {
     "": "",
@@ -1171,10 +1171,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 110,
     "Expense name": "Water",
-    "Remaining so far": 45534.34,
+    "Remaining so far": 42290.62999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 45534.34
+    "Actual remaining today": 42290.62999999999
   },
   {
     "": "",
@@ -1182,10 +1182,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 40534.34,
+    "Remaining so far": 37290.62999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 40534.34
+    "Actual remaining today": 37290.62999999999
   },
   {
     "": "",
@@ -1193,10 +1193,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 2399.81,
     "Expense name": "SLoan",
-    "Remaining so far": 38134.53,
+    "Remaining so far": 34890.81999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 38134.53
+    "Actual remaining today": 34890.81999999999
   },
   {
     "": "",
@@ -1204,10 +1204,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 38134.53,
+    "Remaining so far": 34890.81999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 38134.53
+    "Actual remaining today": 34890.81999999999
   },
   {
     "": "",
@@ -1215,10 +1215,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 38134.53,
+    "Remaining so far": 34890.81999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 38134.53
+    "Actual remaining today": 34890.81999999999
   },
   {
     "": "",
@@ -1226,10 +1226,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 1692.13,
     "Expense name": "GLoan",
-    "Remaining so far": 36442.4,
+    "Remaining so far": 33198.689999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 36442.4
+    "Actual remaining today": 33198.689999999995
   },
   {
     "": "",
@@ -1237,10 +1237,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 3200,
     "Expense name": "Cino",
-    "Remaining so far": 33242.4,
+    "Remaining so far": 29998.689999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 33242.4
+    "Actual remaining today": 29998.689999999995
   },
   {
     "": "",
@@ -1248,10 +1248,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 1500,
     "Expense name": "Ref",
-    "Remaining so far": 31742.4,
+    "Remaining so far": 28498.689999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 31742.4
+    "Actual remaining today": 28498.689999999995
   },
   {
     "": "",
@@ -1259,10 +1259,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 31742.4,
+    "Remaining so far": 28498.689999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 31742.4
+    "Actual remaining today": 28498.689999999995
   },
   {
     "": "",
@@ -1270,10 +1270,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 31742.4,
+    "Remaining so far": 28498.689999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 31742.4
+    "Actual remaining today": 28498.689999999995
   },
   {
     "": "",
@@ -1281,10 +1281,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 31742.4,
+    "Remaining so far": 28498.689999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 31742.4
+    "Actual remaining today": 28498.689999999995
   },
   {
     "": "",
@@ -1292,10 +1292,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 31742.4,
+    "Remaining so far": 28498.689999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 31742.4
+    "Actual remaining today": 28498.689999999995
   },
   {
     "": "",
@@ -1303,10 +1303,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 31742.4,
+    "Remaining so far": 28498.689999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 31742.4
+    "Actual remaining today": 28498.689999999995
   },
   {
     "": "",
@@ -1314,21 +1314,21 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 31742.4,
+    "Remaining so far": 28498.689999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 31742.4
+    "Actual remaining today": 28498.689999999995
   },
   {
-    "": 49742.4,
+    "": 46498.689999999995,
     "Date": "2026-04-30",
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Buds",
-    "Remaining so far": 26742.4,
+    "Remaining so far": 23498.689999999995,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 49742.4
+    "Actual remaining today": 46498.689999999995
   },
   {
     "": "",
@@ -1336,10 +1336,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Wifi",
-    "Remaining so far": 49242.4,
+    "Remaining so far": 45998.689999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 49242.4
+    "Actual remaining today": 45998.689999999995
   },
   {
     "": "",
@@ -1347,10 +1347,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 44242.4,
+    "Remaining so far": 40998.689999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 44242.4
+    "Actual remaining today": 40998.689999999995
   },
   {
     "": "",
@@ -1358,10 +1358,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 44242.4,
+    "Remaining so far": 40998.689999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 44242.4
+    "Actual remaining today": 40998.689999999995
   },
   {
     "": "",
@@ -1369,10 +1369,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 44242.4,
+    "Remaining so far": 40998.689999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 44242.4
+    "Actual remaining today": 40998.689999999995
   },
   {
     "": "",
@@ -1380,10 +1380,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 44242.4,
+    "Remaining so far": 40998.689999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 44242.4
+    "Actual remaining today": 40998.689999999995
   },
   {
     "": "",
@@ -1391,10 +1391,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 44242.4,
+    "Remaining so far": 40998.689999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 44242.4
+    "Actual remaining today": 40998.689999999995
   },
   {
     "": "",
@@ -1402,10 +1402,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 44242.4,
+    "Remaining so far": 40998.689999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 44242.4
+    "Actual remaining today": 40998.689999999995
   },
   {
     "": "",
@@ -1413,10 +1413,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 44242.4,
+    "Remaining so far": 40998.689999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 44242.4
+    "Actual remaining today": 40998.689999999995
   },
   {
     "": "",
@@ -1424,10 +1424,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 44242.4,
+    "Remaining so far": 40998.689999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 44242.4
+    "Actual remaining today": 40998.689999999995
   },
   {
     "": "",
@@ -1435,10 +1435,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 44242.4,
+    "Remaining so far": 40998.689999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 44242.4
+    "Actual remaining today": 40998.689999999995
   },
   {
     "": "",
@@ -1446,21 +1446,21 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 44242.4,
+    "Remaining so far": 40998.689999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 44242.4
+    "Actual remaining today": 40998.689999999995
   },
   {
     "": "",
     "Date": "2026-05-12",
     "ONLY ME - Checkbox": "",
     "Expenses": 5318.15,
-    "Expense name": "",
-    "Remaining so far": 38924.25,
+    "Expense name": "GPU",
+    "Remaining so far": 35680.53999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 38924.25
+    "Actual remaining today": 35680.53999999999
   },
   {
     "": "",
@@ -1468,10 +1468,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 2790.79,
     "Expense name": "SpayLater",
-    "Remaining so far": 36133.46,
+    "Remaining so far": 32889.74999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 36133.46
+    "Actual remaining today": 32889.74999999999
   },
   {
     "": "",
@@ -1479,10 +1479,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 4000,
     "Expense name": "Rent",
-    "Remaining so far": 32133.46,
+    "Remaining so far": 28889.749999999993,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 32133.46
+    "Actual remaining today": 28889.749999999993
   },
   {
     "": "",
@@ -1490,10 +1490,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Electric",
-    "Remaining so far": 31633.46,
+    "Remaining so far": 28389.749999999993,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 54633.46
+    "Actual remaining today": 51389.74999999999
   },
   {
     "": "",
@@ -1501,10 +1501,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 110,
     "Expense name": "Water",
-    "Remaining so far": 54523.46,
+    "Remaining so far": 51279.74999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 54523.46
+    "Actual remaining today": 51279.74999999999
   },
   {
     "": "",
@@ -1512,10 +1512,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 49523.46,
+    "Remaining so far": 46279.74999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 49523.46
+    "Actual remaining today": 46279.74999999999
   },
   {
     "": "",
@@ -1523,10 +1523,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 49523.46,
+    "Remaining so far": 46279.74999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 49523.46
+    "Actual remaining today": 46279.74999999999
   },
   {
     "": "",
@@ -1534,10 +1534,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 49523.46,
+    "Remaining so far": 46279.74999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 49523.46
+    "Actual remaining today": 46279.74999999999
   },
   {
     "": "",
@@ -1545,10 +1545,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 49523.46,
+    "Remaining so far": 46279.74999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 49523.46
+    "Actual remaining today": 46279.74999999999
   },
   {
     "": "",
@@ -1556,10 +1556,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 1692.13,
     "Expense name": "GLoan",
-    "Remaining so far": 47831.33,
+    "Remaining so far": 44587.619999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 47831.33
+    "Actual remaining today": 44587.619999999995
   },
   {
     "": "",
@@ -1567,10 +1567,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 3200,
     "Expense name": "Cino",
-    "Remaining so far": 44631.33,
+    "Remaining so far": 41387.619999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 44631.33
+    "Actual remaining today": 41387.619999999995
   },
   {
     "": "",
@@ -1578,10 +1578,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 1500,
     "Expense name": "Ref",
-    "Remaining so far": 43131.33,
+    "Remaining so far": 39887.619999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 43131.33
+    "Actual remaining today": 39887.619999999995
   },
   {
     "": "",
@@ -1589,10 +1589,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 43131.33,
+    "Remaining so far": 39887.619999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 43131.33
+    "Actual remaining today": 39887.619999999995
   },
   {
     "": "",
@@ -1600,10 +1600,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 43131.33,
+    "Remaining so far": 39887.619999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 43131.33
+    "Actual remaining today": 39887.619999999995
   },
   {
     "": "",
@@ -1611,10 +1611,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 43131.33,
+    "Remaining so far": 39887.619999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 43131.33
+    "Actual remaining today": 39887.619999999995
   },
   {
     "": "",
@@ -1622,10 +1622,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 43131.33,
+    "Remaining so far": 39887.619999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 43131.33
+    "Actual remaining today": 39887.619999999995
   },
   {
     "": "",
@@ -1633,10 +1633,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 43131.33,
+    "Remaining so far": 39887.619999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 43131.33
+    "Actual remaining today": 39887.619999999995
   },
   {
     "": "",
@@ -1644,10 +1644,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 43131.33,
+    "Remaining so far": 39887.619999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 43131.33
+    "Actual remaining today": 39887.619999999995
   },
   {
     "": "",
@@ -1655,21 +1655,21 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 43131.33,
+    "Remaining so far": 39887.619999999995,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 66131.33
+    "Actual remaining today": 62887.619999999995
   },
   {
-    "": 61131.33,
+    "": 47887.619999999995,
     "Date": "2026-05-31",
     "ONLY ME - Checkbox": false,
-    "Expenses": 5000,
+    "Expenses": 15000,
     "Expense name": "Buds",
-    "Remaining so far": 61131.33,
+    "Remaining so far": 47887.619999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 61131.33
+    "Actual remaining today": 47887.619999999995
   },
   {
     "": "",
@@ -1677,10 +1677,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Wifi",
-    "Remaining so far": 60631.33,
+    "Remaining so far": 47387.619999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 60631.33
+    "Actual remaining today": 47387.619999999995
   },
   {
     "": "",
@@ -1688,10 +1688,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 55631.33,
+    "Remaining so far": 42387.619999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 55631.33
+    "Actual remaining today": 42387.619999999995
   },
   {
     "": "",
@@ -1699,10 +1699,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 55631.33,
+    "Remaining so far": 42387.619999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 55631.33
+    "Actual remaining today": 42387.619999999995
   },
   {
     "": "",
@@ -1710,10 +1710,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 55631.33,
+    "Remaining so far": 42387.619999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 55631.33
+    "Actual remaining today": 42387.619999999995
   },
   {
     "": "",
@@ -1721,10 +1721,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 55631.33,
+    "Remaining so far": 42387.619999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 55631.33
+    "Actual remaining today": 42387.619999999995
   },
   {
     "": "",
@@ -1732,10 +1732,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 55631.33,
+    "Remaining so far": 42387.619999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 55631.33
+    "Actual remaining today": 42387.619999999995
   },
   {
     "": "",
@@ -1743,10 +1743,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 55631.33,
+    "Remaining so far": 42387.619999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 55631.33
+    "Actual remaining today": 42387.619999999995
   },
   {
     "": "",
@@ -1754,10 +1754,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 55631.33,
+    "Remaining so far": 42387.619999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 55631.33
+    "Actual remaining today": 42387.619999999995
   },
   {
     "": "",
@@ -1765,10 +1765,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 55631.33,
+    "Remaining so far": 42387.619999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 55631.33
+    "Actual remaining today": 42387.619999999995
   },
   {
     "": "",
@@ -1776,10 +1776,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 55631.33,
+    "Remaining so far": 42387.619999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 55631.33
+    "Actual remaining today": 42387.619999999995
   },
   {
     "": "",
@@ -1787,10 +1787,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 55631.33,
+    "Remaining so far": 42387.619999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 55631.33
+    "Actual remaining today": 42387.619999999995
   },
   {
     "": "",
@@ -1798,10 +1798,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": 5318.15,
     "Expense name": "",
-    "Remaining so far": 50313.18,
+    "Remaining so far": 37069.469999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 50313.18
+    "Actual remaining today": 37069.469999999994
   },
   {
     "": "",
@@ -1809,10 +1809,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 2790.79,
     "Expense name": "SpayLater",
-    "Remaining so far": 47522.39,
+    "Remaining so far": 34278.67999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 47522.39
+    "Actual remaining today": 34278.67999999999
   },
   {
     "": "",
@@ -1820,10 +1820,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 4000,
     "Expense name": "Rent",
-    "Remaining so far": 43522.39,
+    "Remaining so far": 30278.679999999993,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 43522.39
+    "Actual remaining today": 30278.679999999993
   },
   {
     "": "",
@@ -1831,10 +1831,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Electric",
-    "Remaining so far": 43022.39,
+    "Remaining so far": 29778.679999999993,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 66022.39
+    "Actual remaining today": 52778.67999999999
   },
   {
     "": "",
@@ -1842,10 +1842,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 110,
     "Expense name": "Water",
-    "Remaining so far": 65912.39,
+    "Remaining so far": 52668.67999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 65912.39
+    "Actual remaining today": 52668.67999999999
   },
   {
     "": "",
@@ -1853,10 +1853,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 60912.39,
+    "Remaining so far": 47668.67999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 60912.39
+    "Actual remaining today": 47668.67999999999
   },
   {
     "": "",
@@ -1864,10 +1864,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 60912.39,
+    "Remaining so far": 47668.67999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 60912.39
+    "Actual remaining today": 47668.67999999999
   },
   {
     "": "",
@@ -1875,10 +1875,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 60912.39,
+    "Remaining so far": 47668.67999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 60912.39
+    "Actual remaining today": 47668.67999999999
   },
   {
     "": "",
@@ -1886,10 +1886,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 60912.39,
+    "Remaining so far": 47668.67999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 60912.39
+    "Actual remaining today": 47668.67999999999
   },
   {
     "": "",
@@ -1897,10 +1897,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 1692.13,
     "Expense name": "GLoan",
-    "Remaining so far": 59220.26,
+    "Remaining so far": 45976.549999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 59220.26
+    "Actual remaining today": 45976.549999999996
   },
   {
     "": "",
@@ -1908,10 +1908,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 3200,
     "Expense name": "Cino",
-    "Remaining so far": 56020.26,
+    "Remaining so far": 42776.549999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 56020.26
+    "Actual remaining today": 42776.549999999996
   },
   {
     "": "",
@@ -1919,10 +1919,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 56020.26,
+    "Remaining so far": 42776.549999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 56020.26
+    "Actual remaining today": 42776.549999999996
   },
   {
     "": "",
@@ -1930,10 +1930,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 56020.26,
+    "Remaining so far": 42776.549999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 56020.26
+    "Actual remaining today": 42776.549999999996
   },
   {
     "": "",
@@ -1941,10 +1941,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 56020.26,
+    "Remaining so far": 42776.549999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 56020.26
+    "Actual remaining today": 42776.549999999996
   },
   {
     "": "",
@@ -1952,10 +1952,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 56020.26,
+    "Remaining so far": 42776.549999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 56020.26
+    "Actual remaining today": 42776.549999999996
   },
   {
     "": "",
@@ -1963,10 +1963,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 56020.26,
+    "Remaining so far": 42776.549999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 56020.26
+    "Actual remaining today": 42776.549999999996
   },
   {
     "": "",
@@ -1974,10 +1974,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 56020.26,
+    "Remaining so far": 42776.549999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 56020.26
+    "Actual remaining today": 42776.549999999996
   },
   {
     "": "",
@@ -1985,21 +1985,21 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 56020.26,
+    "Remaining so far": 42776.549999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 56020.26
+    "Actual remaining today": 42776.549999999996
   },
   {
-    "": 74020.26000000001,
+    "": 50776.549999999996,
     "Date": "2026-06-30",
     "ONLY ME - Checkbox": false,
-    "Expenses": 5000,
+    "Expenses": 15000,
     "Expense name": "Buds",
-    "Remaining so far": 51020.26,
+    "Remaining so far": 27776.549999999996,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 74020.26000000001
+    "Actual remaining today": 50776.549999999996
   },
   {
     "": "",
@@ -2007,10 +2007,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Wifi",
-    "Remaining so far": 73520.26000000001,
+    "Remaining so far": 50276.549999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 73520.26000000001
+    "Actual remaining today": 50276.549999999996
   },
   {
     "": "",
@@ -2018,10 +2018,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 68520.26000000001,
+    "Remaining so far": 45276.549999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 68520.26000000001
+    "Actual remaining today": 45276.549999999996
   },
   {
     "": "",
@@ -2029,10 +2029,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 68520.26000000001,
+    "Remaining so far": 45276.549999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 68520.26000000001
+    "Actual remaining today": 45276.549999999996
   },
   {
     "": "",
@@ -2040,10 +2040,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 68520.26000000001,
+    "Remaining so far": 45276.549999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 68520.26000000001
+    "Actual remaining today": 45276.549999999996
   },
   {
     "": "",
@@ -2051,10 +2051,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 68520.26000000001,
+    "Remaining so far": 45276.549999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 68520.26000000001
+    "Actual remaining today": 45276.549999999996
   },
   {
     "": "",
@@ -2062,10 +2062,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 68520.26000000001,
+    "Remaining so far": 45276.549999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 68520.26000000001
+    "Actual remaining today": 45276.549999999996
   },
   {
     "": "",
@@ -2073,10 +2073,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 68520.26000000001,
+    "Remaining so far": 45276.549999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 68520.26000000001
+    "Actual remaining today": 45276.549999999996
   },
   {
     "": "",
@@ -2084,10 +2084,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 68520.26000000001,
+    "Remaining so far": 45276.549999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 68520.26000000001
+    "Actual remaining today": 45276.549999999996
   },
   {
     "": "",
@@ -2095,10 +2095,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 68520.26000000001,
+    "Remaining so far": 45276.549999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 68520.26000000001
+    "Actual remaining today": 45276.549999999996
   },
   {
     "": "",
@@ -2106,10 +2106,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 68520.26000000001,
+    "Remaining so far": 45276.549999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 68520.26000000001
+    "Actual remaining today": 45276.549999999996
   },
   {
     "": "",
@@ -2117,10 +2117,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 68520.26000000001,
+    "Remaining so far": 45276.549999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 68520.26000000001
+    "Actual remaining today": 45276.549999999996
   },
   {
     "": "",
@@ -2128,10 +2128,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 68520.26000000001,
+    "Remaining so far": 45276.549999999996,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 68520.26000000001
+    "Actual remaining today": 45276.549999999996
   },
   {
     "": "",
@@ -2139,10 +2139,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 2790.79,
     "Expense name": "SpayLater",
-    "Remaining so far": 65729.47000000002,
+    "Remaining so far": 42485.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 65729.47000000002
+    "Actual remaining today": 42485.759999999995
   },
   {
     "": "",
@@ -2150,10 +2150,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 4000,
     "Expense name": "Rent",
-    "Remaining so far": 61729.470000000016,
+    "Remaining so far": 38485.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 61729.470000000016
+    "Actual remaining today": 38485.759999999995
   },
   {
     "": "",
@@ -2161,10 +2161,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Electric",
-    "Remaining so far": 61229.470000000016,
+    "Remaining so far": 37985.759999999995,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 84229.47000000002
+    "Actual remaining today": 60985.759999999995
   },
   {
     "": "",
@@ -2172,10 +2172,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 110,
     "Expense name": "Water",
-    "Remaining so far": 84119.47000000002,
+    "Remaining so far": 60875.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 84119.47000000002
+    "Actual remaining today": 60875.759999999995
   },
   {
     "": "",
@@ -2183,10 +2183,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 79119.47000000002,
+    "Remaining so far": 55875.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 79119.47000000002
+    "Actual remaining today": 55875.759999999995
   },
   {
     "": "",
@@ -2194,10 +2194,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 79119.47000000002,
+    "Remaining so far": 55875.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 79119.47000000002
+    "Actual remaining today": 55875.759999999995
   },
   {
     "": "",
@@ -2205,10 +2205,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 79119.47000000002,
+    "Remaining so far": 55875.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 79119.47000000002
+    "Actual remaining today": 55875.759999999995
   },
   {
     "": "",
@@ -2216,10 +2216,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 79119.47000000002,
+    "Remaining so far": 55875.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 79119.47000000002
+    "Actual remaining today": 55875.759999999995
   },
   {
     "": "",
@@ -2227,10 +2227,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 79119.47000000002,
+    "Remaining so far": 55875.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 79119.47000000002
+    "Actual remaining today": 55875.759999999995
   },
   {
     "": "",
@@ -2238,10 +2238,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 3200,
     "Expense name": "Cino",
-    "Remaining so far": 75919.47000000002,
+    "Remaining so far": 52675.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 75919.47000000002
+    "Actual remaining today": 52675.759999999995
   },
   {
     "": "",
@@ -2249,10 +2249,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 75919.47000000002,
+    "Remaining so far": 52675.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 75919.47000000002
+    "Actual remaining today": 52675.759999999995
   },
   {
     "": "",
@@ -2260,10 +2260,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 75919.47000000002,
+    "Remaining so far": 52675.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 75919.47000000002
+    "Actual remaining today": 52675.759999999995
   },
   {
     "": "",
@@ -2271,10 +2271,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 75919.47000000002,
+    "Remaining so far": 52675.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 75919.47000000002
+    "Actual remaining today": 52675.759999999995
   },
   {
     "": "",
@@ -2282,10 +2282,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 75919.47000000002,
+    "Remaining so far": 52675.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 75919.47000000002
+    "Actual remaining today": 52675.759999999995
   },
   {
     "": "",
@@ -2293,10 +2293,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 75919.47000000002,
+    "Remaining so far": 52675.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 75919.47000000002
+    "Actual remaining today": 52675.759999999995
   },
   {
     "": "",
@@ -2304,10 +2304,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 75919.47000000002,
+    "Remaining so far": 52675.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 75919.47000000002
+    "Actual remaining today": 52675.759999999995
   },
   {
     "": "",
@@ -2315,10 +2315,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 75919.47000000002,
+    "Remaining so far": 52675.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 75919.47000000002
+    "Actual remaining today": 52675.759999999995
   },
   {
     "": "",
@@ -2326,21 +2326,21 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 75919.47000000002,
+    "Remaining so far": 52675.759999999995,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 98919.47000000002
+    "Actual remaining today": 75675.76
   },
   {
-    "": 93919.47000000002,
+    "": 35675.759999999995,
     "Date": "2026-07-31",
     "ONLY ME - Checkbox": false,
-    "Expenses": 5000,
+    "Expenses": 40000,
     "Expense name": "Buds",
-    "Remaining so far": 93919.47000000002,
+    "Remaining so far": 35675.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 93919.47000000002
+    "Actual remaining today": 35675.759999999995
   },
   {
     "": "",
@@ -2348,10 +2348,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Wifi",
-    "Remaining so far": 93419.47000000002,
+    "Remaining so far": 35175.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 93419.47000000002
+    "Actual remaining today": 35175.759999999995
   },
   {
     "": "",
@@ -2359,10 +2359,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 88419.47000000002,
+    "Remaining so far": 30175.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 88419.47000000002
+    "Actual remaining today": 30175.759999999995
   },
   {
     "": "",
@@ -2370,10 +2370,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 88419.47000000002,
+    "Remaining so far": 30175.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 88419.47000000002
+    "Actual remaining today": 30175.759999999995
   },
   {
     "": "",
@@ -2381,10 +2381,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 88419.47000000002,
+    "Remaining so far": 30175.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 88419.47000000002
+    "Actual remaining today": 30175.759999999995
   },
   {
     "": "",
@@ -2392,10 +2392,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 88419.47000000002,
+    "Remaining so far": 30175.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 88419.47000000002
+    "Actual remaining today": 30175.759999999995
   },
   {
     "": "",
@@ -2403,10 +2403,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 88419.47000000002,
+    "Remaining so far": 30175.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 88419.47000000002
+    "Actual remaining today": 30175.759999999995
   },
   {
     "": "",
@@ -2414,10 +2414,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 88419.47000000002,
+    "Remaining so far": 30175.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 88419.47000000002
+    "Actual remaining today": 30175.759999999995
   },
   {
     "": "",
@@ -2425,10 +2425,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 88419.47000000002,
+    "Remaining so far": 30175.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 88419.47000000002
+    "Actual remaining today": 30175.759999999995
   },
   {
     "": "",
@@ -2436,10 +2436,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 88419.47000000002,
+    "Remaining so far": 30175.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 88419.47000000002
+    "Actual remaining today": 30175.759999999995
   },
   {
     "": "",
@@ -2447,10 +2447,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 88419.47000000002,
+    "Remaining so far": 30175.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 88419.47000000002
+    "Actual remaining today": 30175.759999999995
   },
   {
     "": "",
@@ -2458,10 +2458,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 88419.47000000002,
+    "Remaining so far": 30175.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 88419.47000000002
+    "Actual remaining today": 30175.759999999995
   },
   {
     "": "",
@@ -2469,10 +2469,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 88419.47000000002,
+    "Remaining so far": 30175.759999999995,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 88419.47000000002
+    "Actual remaining today": 30175.759999999995
   },
   {
     "": "",
@@ -2480,10 +2480,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 2790.79,
     "Expense name": "SpayLater",
-    "Remaining so far": 85628.68000000002,
+    "Remaining so far": 27384.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 85628.68000000002
+    "Actual remaining today": 27384.969999999994
   },
   {
     "": "",
@@ -2491,10 +2491,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 4000,
     "Expense name": "Rent",
-    "Remaining so far": 81628.68000000002,
+    "Remaining so far": 23384.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 81628.68000000002
+    "Actual remaining today": 23384.969999999994
   },
   {
     "": "",
@@ -2502,10 +2502,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Electric",
-    "Remaining so far": 81128.68000000002,
+    "Remaining so far": 22884.969999999994,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 104128.68000000002
+    "Actual remaining today": 45884.969999999994
   },
   {
     "": "",
@@ -2513,10 +2513,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 110,
     "Expense name": "Water",
-    "Remaining so far": 104018.68000000002,
+    "Remaining so far": 45774.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 104018.68000000002
+    "Actual remaining today": 45774.969999999994
   },
   {
     "": "",
@@ -2524,10 +2524,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 99018.68000000002,
+    "Remaining so far": 40774.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 99018.68000000002
+    "Actual remaining today": 40774.969999999994
   },
   {
     "": "",
@@ -2535,10 +2535,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 99018.68000000002,
+    "Remaining so far": 40774.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 99018.68000000002
+    "Actual remaining today": 40774.969999999994
   },
   {
     "": "",
@@ -2546,10 +2546,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 99018.68000000002,
+    "Remaining so far": 40774.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 99018.68000000002
+    "Actual remaining today": 40774.969999999994
   },
   {
     "": "",
@@ -2557,10 +2557,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 99018.68000000002,
+    "Remaining so far": 40774.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 99018.68000000002
+    "Actual remaining today": 40774.969999999994
   },
   {
     "": "",
@@ -2568,10 +2568,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 99018.68000000002,
+    "Remaining so far": 40774.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 99018.68000000002
+    "Actual remaining today": 40774.969999999994
   },
   {
     "": "",
@@ -2579,10 +2579,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 3200,
     "Expense name": "Cino",
-    "Remaining so far": 95818.68000000002,
+    "Remaining so far": 37574.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 95818.68000000002
+    "Actual remaining today": 37574.969999999994
   },
   {
     "": "",
@@ -2590,10 +2590,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 95818.68000000002,
+    "Remaining so far": 37574.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 95818.68000000002
+    "Actual remaining today": 37574.969999999994
   },
   {
     "": "",
@@ -2601,10 +2601,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 95818.68000000002,
+    "Remaining so far": 37574.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 95818.68000000002
+    "Actual remaining today": 37574.969999999994
   },
   {
     "": "",
@@ -2612,10 +2612,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 95818.68000000002,
+    "Remaining so far": 37574.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 95818.68000000002
+    "Actual remaining today": 37574.969999999994
   },
   {
     "": "",
@@ -2623,10 +2623,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 95818.68000000002,
+    "Remaining so far": 37574.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 95818.68000000002
+    "Actual remaining today": 37574.969999999994
   },
   {
     "": "",
@@ -2634,10 +2634,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 95818.68000000002,
+    "Remaining so far": 37574.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 95818.68000000002
+    "Actual remaining today": 37574.969999999994
   },
   {
     "": "",
@@ -2645,10 +2645,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 95818.68000000002,
+    "Remaining so far": 37574.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 95818.68000000002
+    "Actual remaining today": 37574.969999999994
   },
   {
     "": "",
@@ -2656,10 +2656,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 95818.68000000002,
+    "Remaining so far": 37574.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 95818.68000000002
+    "Actual remaining today": 37574.969999999994
   },
   {
     "": "",
@@ -2667,21 +2667,21 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 95818.68000000002,
+    "Remaining so far": 37574.969999999994,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 118818.68000000002
+    "Actual remaining today": 60574.969999999994
   },
   {
-    "": 113818.68000000002,
+    "": 60574.969999999994,
     "Date": "2026-08-31",
     "ONLY ME - Checkbox": false,
-    "Expenses": 5000,
-    "Expense name": "Buds",
-    "Remaining so far": 113818.68000000002,
+    "Expenses": "",
+    "Expense name": "",
+    "Remaining so far": 60574.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 113818.68000000002
+    "Actual remaining today": 60574.969999999994
   },
   {
     "": "",
@@ -2689,10 +2689,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Wifi",
-    "Remaining so far": 113318.68000000002,
+    "Remaining so far": 60074.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 113318.68000000002
+    "Actual remaining today": 60074.969999999994
   },
   {
     "": "",
@@ -2700,10 +2700,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 108318.68000000002,
+    "Remaining so far": 55074.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 108318.68000000002
+    "Actual remaining today": 55074.969999999994
   },
   {
     "": "",
@@ -2711,10 +2711,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 108318.68000000002,
+    "Remaining so far": 55074.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 108318.68000000002
+    "Actual remaining today": 55074.969999999994
   },
   {
     "": "",
@@ -2722,10 +2722,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 108318.68000000002,
+    "Remaining so far": 55074.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 108318.68000000002
+    "Actual remaining today": 55074.969999999994
   },
   {
     "": "",
@@ -2733,10 +2733,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 108318.68000000002,
+    "Remaining so far": 55074.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 108318.68000000002
+    "Actual remaining today": 55074.969999999994
   },
   {
     "": "",
@@ -2744,10 +2744,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 108318.68000000002,
+    "Remaining so far": 55074.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 108318.68000000002
+    "Actual remaining today": 55074.969999999994
   },
   {
     "": "",
@@ -2755,10 +2755,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 108318.68000000002,
+    "Remaining so far": 55074.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 108318.68000000002
+    "Actual remaining today": 55074.969999999994
   },
   {
     "": "",
@@ -2766,10 +2766,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 108318.68000000002,
+    "Remaining so far": 55074.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 108318.68000000002
+    "Actual remaining today": 55074.969999999994
   },
   {
     "": "",
@@ -2777,10 +2777,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 108318.68000000002,
+    "Remaining so far": 55074.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 108318.68000000002
+    "Actual remaining today": 55074.969999999994
   },
   {
     "": "",
@@ -2788,10 +2788,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 108318.68000000002,
+    "Remaining so far": 55074.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 108318.68000000002
+    "Actual remaining today": 55074.969999999994
   },
   {
     "": "",
@@ -2799,10 +2799,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 108318.68000000002,
+    "Remaining so far": 55074.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 108318.68000000002
+    "Actual remaining today": 55074.969999999994
   },
   {
     "": "",
@@ -2810,10 +2810,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 108318.68000000002,
+    "Remaining so far": 55074.969999999994,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 108318.68000000002
+    "Actual remaining today": 55074.969999999994
   },
   {
     "": "",
@@ -2821,10 +2821,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 2790.79,
     "Expense name": "SpayLater",
-    "Remaining so far": 105527.89000000003,
+    "Remaining so far": 52284.17999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 105527.89000000003
+    "Actual remaining today": 52284.17999999999
   },
   {
     "": "",
@@ -2832,10 +2832,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 4000,
     "Expense name": "Rent",
-    "Remaining so far": 101527.89000000003,
+    "Remaining so far": 48284.17999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 101527.89000000003
+    "Actual remaining today": 48284.17999999999
   },
   {
     "": "",
@@ -2843,10 +2843,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Electric",
-    "Remaining so far": 101027.89000000003,
+    "Remaining so far": 47784.17999999999,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 124027.89000000003
+    "Actual remaining today": 70784.18
   },
   {
     "": "",
@@ -2854,10 +2854,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 110,
     "Expense name": "Water",
-    "Remaining so far": 123917.89000000003,
+    "Remaining so far": 70674.18,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 123917.89000000003
+    "Actual remaining today": 70674.18
   },
   {
     "": "",
@@ -2865,10 +2865,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 118917.89000000003,
+    "Remaining so far": 65674.18,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 118917.89000000003
+    "Actual remaining today": 65674.18
   },
   {
     "": "",
@@ -2876,10 +2876,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 118917.89000000003,
+    "Remaining so far": 65674.18,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 118917.89000000003
+    "Actual remaining today": 65674.18
   },
   {
     "": "",
@@ -2887,10 +2887,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 118917.89000000003,
+    "Remaining so far": 65674.18,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 118917.89000000003
+    "Actual remaining today": 65674.18
   },
   {
     "": "",
@@ -2898,10 +2898,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 118917.89000000003,
+    "Remaining so far": 65674.18,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 118917.89000000003
+    "Actual remaining today": 65674.18
   },
   {
     "": "",
@@ -2909,10 +2909,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 118917.89000000003,
+    "Remaining so far": 65674.18,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 118917.89000000003
+    "Actual remaining today": 65674.18
   },
   {
     "": "",
@@ -2920,10 +2920,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 3200,
     "Expense name": "Cino",
-    "Remaining so far": 115717.89000000003,
+    "Remaining so far": 62474.17999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 115717.89000000003
+    "Actual remaining today": 62474.17999999999
   },
   {
     "": "",
@@ -2931,10 +2931,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 115717.89000000003,
+    "Remaining so far": 62474.17999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 115717.89000000003
+    "Actual remaining today": 62474.17999999999
   },
   {
     "": "",
@@ -2942,10 +2942,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 115717.89000000003,
+    "Remaining so far": 62474.17999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 115717.89000000003
+    "Actual remaining today": 62474.17999999999
   },
   {
     "": "",
@@ -2953,10 +2953,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 115717.89000000003,
+    "Remaining so far": 62474.17999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 115717.89000000003
+    "Actual remaining today": 62474.17999999999
   },
   {
     "": "",
@@ -2964,10 +2964,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 115717.89000000003,
+    "Remaining so far": 62474.17999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 115717.89000000003
+    "Actual remaining today": 62474.17999999999
   },
   {
     "": "",
@@ -2975,10 +2975,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 115717.89000000003,
+    "Remaining so far": 62474.17999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 115717.89000000003
+    "Actual remaining today": 62474.17999999999
   },
   {
     "": "",
@@ -2986,10 +2986,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 115717.89000000003,
+    "Remaining so far": 62474.17999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 115717.89000000003
+    "Actual remaining today": 62474.17999999999
   },
   {
     "": "",
@@ -2997,21 +2997,21 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 115717.89000000003,
+    "Remaining so far": 62474.17999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 115717.89000000003
+    "Actual remaining today": 62474.17999999999
   },
   {
-    "": 133717.89,
+    "": 85474.18,
     "Date": "2026-09-30",
     "ONLY ME - Checkbox": false,
-    "Expenses": 5000,
-    "Expense name": "Buds",
-    "Remaining so far": 110717.89000000003,
+    "Expenses": "",
+    "Expense name": "",
+    "Remaining so far": 62474.17999999999,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 133717.89
+    "Actual remaining today": 85474.18
   },
   {
     "": "Oct",
@@ -3019,10 +3019,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Wifi",
-    "Remaining so far": 133217.89,
+    "Remaining so far": 84974.18,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 133217.89
+    "Actual remaining today": 84974.18
   },
   {
     "": "",
@@ -3030,10 +3030,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 128217.89000000001,
+    "Remaining so far": 79974.18,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 128217.89000000001
+    "Actual remaining today": 79974.18
   },
   {
     "": "",
@@ -3041,10 +3041,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 128217.89000000001,
+    "Remaining so far": 79974.18,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 128217.89000000001
+    "Actual remaining today": 79974.18
   },
   {
     "": "",
@@ -3052,10 +3052,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 128217.89000000001,
+    "Remaining so far": 79974.18,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 128217.89000000001
+    "Actual remaining today": 79974.18
   },
   {
     "": "",
@@ -3063,10 +3063,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 128217.89000000001,
+    "Remaining so far": 79974.18,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 128217.89000000001
+    "Actual remaining today": 79974.18
   },
   {
     "": "",
@@ -3074,10 +3074,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 128217.89000000001,
+    "Remaining so far": 79974.18,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 128217.89000000001
+    "Actual remaining today": 79974.18
   },
   {
     "": "",
@@ -3085,10 +3085,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 128217.89000000001,
+    "Remaining so far": 79974.18,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 128217.89000000001
+    "Actual remaining today": 79974.18
   },
   {
     "": "",
@@ -3096,10 +3096,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 128217.89000000001,
+    "Remaining so far": 79974.18,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 128217.89000000001
+    "Actual remaining today": 79974.18
   },
   {
     "": "",
@@ -3107,10 +3107,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 128217.89000000001,
+    "Remaining so far": 79974.18,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 128217.89000000001
+    "Actual remaining today": 79974.18
   },
   {
     "": "",
@@ -3118,10 +3118,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 128217.89000000001,
+    "Remaining so far": 79974.18,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 128217.89000000001
+    "Actual remaining today": 79974.18
   },
   {
     "": "",
@@ -3129,10 +3129,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 128217.89000000001,
+    "Remaining so far": 79974.18,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 128217.89000000001
+    "Actual remaining today": 79974.18
   },
   {
     "": "",
@@ -3140,10 +3140,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 128217.89000000001,
+    "Remaining so far": 79974.18,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 128217.89000000001
+    "Actual remaining today": 79974.18
   },
   {
     "": "",
@@ -3151,10 +3151,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 2750.08,
     "Expense name": "SpayLater",
-    "Remaining so far": 125467.81000000001,
+    "Remaining so far": 77224.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 125467.81000000001
+    "Actual remaining today": 77224.09999999999
   },
   {
     "": "",
@@ -3162,10 +3162,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 4000,
     "Expense name": "Rent",
-    "Remaining so far": 121467.81000000001,
+    "Remaining so far": 73224.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 121467.81000000001
+    "Actual remaining today": 73224.09999999999
   },
   {
     "": "",
@@ -3173,10 +3173,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Electric",
-    "Remaining so far": 120967.81000000001,
+    "Remaining so far": 72724.09999999999,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 143967.81
+    "Actual remaining today": 95724.09999999999
   },
   {
     "": "",
@@ -3184,10 +3184,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 110,
     "Expense name": "Water",
-    "Remaining so far": 143857.81,
+    "Remaining so far": 95614.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 143857.81
+    "Actual remaining today": 95614.09999999999
   },
   {
     "": "",
@@ -3195,10 +3195,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 138857.81,
+    "Remaining so far": 90614.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 138857.81
+    "Actual remaining today": 90614.09999999999
   },
   {
     "": "",
@@ -3206,10 +3206,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 138857.81,
+    "Remaining so far": 90614.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 138857.81
+    "Actual remaining today": 90614.09999999999
   },
   {
     "": "",
@@ -3217,10 +3217,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 138857.81,
+    "Remaining so far": 90614.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 138857.81
+    "Actual remaining today": 90614.09999999999
   },
   {
     "": "",
@@ -3228,10 +3228,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 138857.81,
+    "Remaining so far": 90614.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 138857.81
+    "Actual remaining today": 90614.09999999999
   },
   {
     "": "",
@@ -3239,10 +3239,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 138857.81,
+    "Remaining so far": 90614.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 138857.81
+    "Actual remaining today": 90614.09999999999
   },
   {
     "": "",
@@ -3250,10 +3250,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 138857.81,
+    "Remaining so far": 90614.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 138857.81
+    "Actual remaining today": 90614.09999999999
   },
   {
     "": "",
@@ -3261,10 +3261,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 138857.81,
+    "Remaining so far": 90614.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 138857.81
+    "Actual remaining today": 90614.09999999999
   },
   {
     "": "",
@@ -3272,10 +3272,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 138857.81,
+    "Remaining so far": 90614.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 138857.81
+    "Actual remaining today": 90614.09999999999
   },
   {
     "": "",
@@ -3283,10 +3283,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 138857.81,
+    "Remaining so far": 90614.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 138857.81
+    "Actual remaining today": 90614.09999999999
   },
   {
     "": "",
@@ -3294,10 +3294,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 138857.81,
+    "Remaining so far": 90614.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 138857.81
+    "Actual remaining today": 90614.09999999999
   },
   {
     "": "",
@@ -3305,10 +3305,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 138857.81,
+    "Remaining so far": 90614.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 138857.81
+    "Actual remaining today": 90614.09999999999
   },
   {
     "": "",
@@ -3316,10 +3316,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 138857.81,
+    "Remaining so far": 90614.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 138857.81
+    "Actual remaining today": 90614.09999999999
   },
   {
     "": "",
@@ -3327,10 +3327,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 138857.81,
+    "Remaining so far": 90614.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 138857.81
+    "Actual remaining today": 90614.09999999999
   },
   {
     "": "",
@@ -3338,21 +3338,21 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 138857.81,
+    "Remaining so far": 90614.09999999999,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 161857.81
+    "Actual remaining today": 113614.09999999999
   },
   {
-    "": 161857.81,
+    "": 113614.09999999999,
     "Date": "2026-10-31",
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 161857.81,
+    "Remaining so far": 113614.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 161857.81
+    "Actual remaining today": 113614.09999999999
   },
   {
     "": "",
@@ -3360,10 +3360,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Wifi",
-    "Remaining so far": 161357.81,
+    "Remaining so far": 113114.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 161357.81
+    "Actual remaining today": 113114.09999999999
   },
   {
     "": "",
@@ -3371,10 +3371,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 156357.81,
+    "Remaining so far": 108114.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 156357.81
+    "Actual remaining today": 108114.09999999999
   },
   {
     "": "",
@@ -3382,10 +3382,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 156357.81,
+    "Remaining so far": 108114.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 156357.81
+    "Actual remaining today": 108114.09999999999
   },
   {
     "": "",
@@ -3393,10 +3393,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 156357.81,
+    "Remaining so far": 108114.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 156357.81
+    "Actual remaining today": 108114.09999999999
   },
   {
     "": "",
@@ -3404,10 +3404,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 156357.81,
+    "Remaining so far": 108114.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 156357.81
+    "Actual remaining today": 108114.09999999999
   },
   {
     "": "",
@@ -3415,10 +3415,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 156357.81,
+    "Remaining so far": 108114.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 156357.81
+    "Actual remaining today": 108114.09999999999
   },
   {
     "": "",
@@ -3426,10 +3426,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 156357.81,
+    "Remaining so far": 108114.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 156357.81
+    "Actual remaining today": 108114.09999999999
   },
   {
     "": "",
@@ -3437,10 +3437,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 156357.81,
+    "Remaining so far": 108114.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 156357.81
+    "Actual remaining today": 108114.09999999999
   },
   {
     "": "",
@@ -3448,10 +3448,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 156357.81,
+    "Remaining so far": 108114.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 156357.81
+    "Actual remaining today": 108114.09999999999
   },
   {
     "": "",
@@ -3459,10 +3459,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 156357.81,
+    "Remaining so far": 108114.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 156357.81
+    "Actual remaining today": 108114.09999999999
   },
   {
     "": "",
@@ -3470,10 +3470,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 156357.81,
+    "Remaining so far": 108114.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 156357.81
+    "Actual remaining today": 108114.09999999999
   },
   {
     "": "",
@@ -3481,10 +3481,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 156357.81,
+    "Remaining so far": 108114.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 156357.81
+    "Actual remaining today": 108114.09999999999
   },
   {
     "": "",
@@ -3492,10 +3492,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 156357.81,
+    "Remaining so far": 108114.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 156357.81
+    "Actual remaining today": 108114.09999999999
   },
   {
     "": "",
@@ -3503,10 +3503,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 4000,
     "Expense name": "Rent",
-    "Remaining so far": 152357.81,
+    "Remaining so far": 104114.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 152357.81
+    "Actual remaining today": 104114.09999999999
   },
   {
     "": "",
@@ -3514,10 +3514,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Electric",
-    "Remaining so far": 151857.81,
+    "Remaining so far": 103614.09999999999,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 174857.81
+    "Actual remaining today": 126614.09999999999
   },
   {
     "": "",
@@ -3525,10 +3525,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 110,
     "Expense name": "Water",
-    "Remaining so far": 174747.81,
+    "Remaining so far": 126504.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 174747.81
+    "Actual remaining today": 126504.09999999999
   },
   {
     "": "",
@@ -3536,10 +3536,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 169747.81,
+    "Remaining so far": 121504.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 169747.81
+    "Actual remaining today": 121504.09999999999
   },
   {
     "": "",
@@ -3547,10 +3547,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 169747.81,
+    "Remaining so far": 121504.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 169747.81
+    "Actual remaining today": 121504.09999999999
   },
   {
     "": "",
@@ -3558,10 +3558,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 169747.81,
+    "Remaining so far": 121504.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 169747.81
+    "Actual remaining today": 121504.09999999999
   },
   {
     "": "",
@@ -3569,10 +3569,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 169747.81,
+    "Remaining so far": 121504.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 169747.81
+    "Actual remaining today": 121504.09999999999
   },
   {
     "": "",
@@ -3580,10 +3580,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 169747.81,
+    "Remaining so far": 121504.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 169747.81
+    "Actual remaining today": 121504.09999999999
   },
   {
     "": "",
@@ -3591,10 +3591,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 169747.81,
+    "Remaining so far": 121504.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 169747.81
+    "Actual remaining today": 121504.09999999999
   },
   {
     "": "",
@@ -3602,10 +3602,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 169747.81,
+    "Remaining so far": 121504.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 169747.81
+    "Actual remaining today": 121504.09999999999
   },
   {
     "": "",
@@ -3613,10 +3613,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 169747.81,
+    "Remaining so far": 121504.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 169747.81
+    "Actual remaining today": 121504.09999999999
   },
   {
     "": "",
@@ -3624,10 +3624,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 169747.81,
+    "Remaining so far": 121504.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 169747.81
+    "Actual remaining today": 121504.09999999999
   },
   {
     "": "",
@@ -3635,10 +3635,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 169747.81,
+    "Remaining so far": 121504.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 169747.81
+    "Actual remaining today": 121504.09999999999
   },
   {
     "": "",
@@ -3646,10 +3646,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 169747.81,
+    "Remaining so far": 121504.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 169747.81
+    "Actual remaining today": 121504.09999999999
   },
   {
     "": "",
@@ -3657,10 +3657,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 169747.81,
+    "Remaining so far": 121504.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 169747.81
+    "Actual remaining today": 121504.09999999999
   },
   {
     "": "",
@@ -3668,21 +3668,21 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 169747.81,
+    "Remaining so far": 121504.09999999999,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 169747.81
+    "Actual remaining today": 121504.09999999999
   },
   {
-    "": 192747.81,
+    "": 144504.09999999998,
     "Date": "2026-11-30",
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 169747.81,
+    "Remaining so far": 121504.09999999999,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 192747.81
+    "Actual remaining today": 144504.09999999998
   },
   {
     "": "",
@@ -3690,10 +3690,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Wifi",
-    "Remaining so far": 192247.81,
+    "Remaining so far": 144004.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 192247.81
+    "Actual remaining today": 144004.09999999998
   },
   {
     "": "",
@@ -3701,10 +3701,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 187247.81,
+    "Remaining so far": 139004.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 187247.81
+    "Actual remaining today": 139004.09999999998
   },
   {
     "": "",
@@ -3712,10 +3712,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 187247.81,
+    "Remaining so far": 139004.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 187247.81
+    "Actual remaining today": 139004.09999999998
   },
   {
     "": "",
@@ -3723,10 +3723,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 187247.81,
+    "Remaining so far": 139004.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 187247.81
+    "Actual remaining today": 139004.09999999998
   },
   {
     "": "",
@@ -3734,10 +3734,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 187247.81,
+    "Remaining so far": 139004.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 187247.81
+    "Actual remaining today": 139004.09999999998
   },
   {
     "": "",
@@ -3745,10 +3745,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 187247.81,
+    "Remaining so far": 139004.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 187247.81
+    "Actual remaining today": 139004.09999999998
   },
   {
     "": "",
@@ -3756,10 +3756,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 187247.81,
+    "Remaining so far": 139004.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 187247.81
+    "Actual remaining today": 139004.09999999998
   },
   {
     "": "",
@@ -3767,10 +3767,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 187247.81,
+    "Remaining so far": 139004.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 187247.81
+    "Actual remaining today": 139004.09999999998
   },
   {
     "": "",
@@ -3778,10 +3778,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 187247.81,
+    "Remaining so far": 139004.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 187247.81
+    "Actual remaining today": 139004.09999999998
   },
   {
     "": "",
@@ -3789,10 +3789,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 187247.81,
+    "Remaining so far": 139004.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 187247.81
+    "Actual remaining today": 139004.09999999998
   },
   {
     "": "",
@@ -3800,10 +3800,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 187247.81,
+    "Remaining so far": 139004.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 187247.81
+    "Actual remaining today": 139004.09999999998
   },
   {
     "": "",
@@ -3811,10 +3811,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 187247.81,
+    "Remaining so far": 139004.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 187247.81
+    "Actual remaining today": 139004.09999999998
   },
   {
     "": "",
@@ -3822,10 +3822,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 187247.81,
+    "Remaining so far": 139004.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 187247.81
+    "Actual remaining today": 139004.09999999998
   },
   {
     "": "",
@@ -3833,10 +3833,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 4000,
     "Expense name": "Rent",
-    "Remaining so far": 183247.81,
+    "Remaining so far": 135004.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 183247.81
+    "Actual remaining today": 135004.09999999998
   },
   {
     "": "",
@@ -3844,10 +3844,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 500,
     "Expense name": "Electric",
-    "Remaining so far": 182747.81,
+    "Remaining so far": 134504.09999999998,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 205747.81
+    "Actual remaining today": 157504.09999999998
   },
   {
     "": "",
@@ -3855,10 +3855,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 110,
     "Expense name": "Water",
-    "Remaining so far": 205637.81,
+    "Remaining so far": 157394.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 205637.81
+    "Actual remaining today": 157394.09999999998
   },
   {
     "": "",
@@ -3866,10 +3866,10 @@
     "ONLY ME - Checkbox": false,
     "Expenses": 5000,
     "Expense name": "Food",
-    "Remaining so far": 200637.81,
+    "Remaining so far": 152394.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 200637.81
+    "Actual remaining today": 152394.09999999998
   },
   {
     "": "",
@@ -3877,10 +3877,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 200637.81,
+    "Remaining so far": 152394.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 200637.81
+    "Actual remaining today": 152394.09999999998
   },
   {
     "": "",
@@ -3888,10 +3888,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 200637.81,
+    "Remaining so far": 152394.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 200637.81
+    "Actual remaining today": 152394.09999999998
   },
   {
     "": "",
@@ -3899,10 +3899,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 200637.81,
+    "Remaining so far": 152394.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 200637.81
+    "Actual remaining today": 152394.09999999998
   },
   {
     "": "",
@@ -3910,10 +3910,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 200637.81,
+    "Remaining so far": 152394.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 200637.81
+    "Actual remaining today": 152394.09999999998
   },
   {
     "": "",
@@ -3921,10 +3921,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 200637.81,
+    "Remaining so far": 152394.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 200637.81
+    "Actual remaining today": 152394.09999999998
   },
   {
     "": "",
@@ -3932,10 +3932,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 200637.81,
+    "Remaining so far": 152394.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 200637.81
+    "Actual remaining today": 152394.09999999998
   },
   {
     "": "",
@@ -3943,10 +3943,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 200637.81,
+    "Remaining so far": 152394.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 200637.81
+    "Actual remaining today": 152394.09999999998
   },
   {
     "": "",
@@ -3954,10 +3954,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 200637.81,
+    "Remaining so far": 152394.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 200637.81
+    "Actual remaining today": 152394.09999999998
   },
   {
     "": "",
@@ -3965,10 +3965,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 200637.81,
+    "Remaining so far": 152394.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 200637.81
+    "Actual remaining today": 152394.09999999998
   },
   {
     "": "",
@@ -3976,10 +3976,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 200637.81,
+    "Remaining so far": 152394.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 200637.81
+    "Actual remaining today": 152394.09999999998
   },
   {
     "": "",
@@ -3987,10 +3987,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 200637.81,
+    "Remaining so far": 152394.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 200637.81
+    "Actual remaining today": 152394.09999999998
   },
   {
     "": "",
@@ -3998,10 +3998,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 200637.81,
+    "Remaining so far": 152394.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 200637.81
+    "Actual remaining today": 152394.09999999998
   },
   {
     "": "",
@@ -4009,10 +4009,10 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 200637.81,
+    "Remaining so far": 152394.09999999998,
     "Income today": 23000,
     "Income name": "",
-    "Actual remaining today": 223637.81
+    "Actual remaining today": 175394.09999999998
   },
   {
     "": "",
@@ -4020,9 +4020,9 @@
     "ONLY ME - Checkbox": "",
     "Expenses": "",
     "Expense name": "",
-    "Remaining so far": 223637.81,
+    "Remaining so far": 175394.09999999998,
     "Income today": "",
     "Income name": "",
-    "Actual remaining today": 223637.81
+    "Actual remaining today": 175394.09999999998
   }
 ]
