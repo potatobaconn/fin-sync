@@ -2,23 +2,23 @@
   {
     "0": 0,
     "500": 127590,
-    "90000": 22816,
+    "90000": 80000,
     "": "",
-    "Buds": "55k hard limit",
+    "Buds": "Buds Remaining",
     "Savings": "Food",
     "Tonik": "GoSave"
   },
   {
     "0": 500,
-    "500": "",
+    "500": 22816,
     "90000": 8700,
     "": 0,
     "Buds": "House Expenses",
-    "Savings": "",
+    "Savings": "55k hard limit",
     "Tonik": "GoTrade"
   },
   {
-    "0": "",
+    "0": 31647.360000000015,
     "500": "",
     "90000": "",
     "": "",
